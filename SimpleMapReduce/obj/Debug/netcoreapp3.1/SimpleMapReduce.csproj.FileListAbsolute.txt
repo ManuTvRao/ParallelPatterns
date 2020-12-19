@@ -1,0 +1,13 @@
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.exe
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.deps.json
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.runtimeconfig.json
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.runtimeconfig.dev.json
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.dll
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\bin\Debug\netcoreapp3.1\SimpleMapReduce.pdb
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.csprojAssemblyReference.cache
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.AssemblyInfoInputs.cache
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.AssemblyInfo.cs
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.dll
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.pdb
+C:\Users\Manu\source\repos\ParallelPatterns\SimpleMapReduce\obj\Debug\netcoreapp3.1\SimpleMapReduce.genruntimeconfig.cache

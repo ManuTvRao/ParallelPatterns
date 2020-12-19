@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oua1syb96b6wfd6XB+JhcPxdEhg9qrxz9T1tNiH2o3lds8MohHIDxq5B4Qyw5tBhTw+MYyH8VUqVHhjhOg5sDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manu\\source\\repos\\ParallelPatterns\\Fork-Join\\Fork-Join.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Manu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

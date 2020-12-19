@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5piSOcag+2uaDwweP8GGWQ4H+WigiWiNoexnD1BEAKO8GP2MnG+5dzHxoX/SMTYWM7HEuY91Y4ou54kLXv6wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manu\\source\\repos\\ParallelPatterns\\ParallelPatterns\\ParallelPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Manu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

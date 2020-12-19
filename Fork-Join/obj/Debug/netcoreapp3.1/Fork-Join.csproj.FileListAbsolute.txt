@@ -1,0 +1,4 @@
+C:\Users\Manu\source\repos\ParallelPatterns\Fork-Join\obj\Debug\netcoreapp3.1\Fork-Join.csprojAssemblyReference.cache
+C:\Users\Manu\source\repos\ParallelPatterns\Fork-Join\obj\Debug\netcoreapp3.1\Fork-Join.AssemblyInfoInputs.cache
+C:\Users\Manu\source\repos\ParallelPatterns\Fork-Join\obj\Debug\netcoreapp3.1\Fork-Join.AssemblyInfo.cs
+C:\Users\Manu\source\repos\ParallelPatterns\Fork-Join\obj\Debug\netcoreapp3.1\Fork-Join.csproj.CoreCompileInputs.cache
